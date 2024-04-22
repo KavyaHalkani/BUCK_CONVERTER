@@ -1,0 +1,5 @@
+This work presents a DC-DC buck converter to convert the voltage from 3.3V to 2.1V, widely used in lowvoltage applications. The buck converter works on the principle
+of PWM(Pulse Width Modulation). The transistor acts as a switch that connects and disconnects alternatively to the inductor with a duty cycle of 0.63. The current flow 
+path and the time decide the capacitor charging, in turn, the output voltage. To stabilize the output, feedback is applied with an error amplifier, comparator,
+and driver circuits. Performance parameters are calculated for the proposed design which includes a Line transient of 160mV,a Constant load transient as ideal, and a step 
+response in a few milliseconds. The DC-DC Buck Converter design and layout are implemented in 180nm CMOS technology.
